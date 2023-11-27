@@ -1,1 +1,2 @@
 Download the above files and upload in your own colab and practice. Solutions provided till where you need to learn.
+credits to rougier check out his github --> https://github.com/rougier
