@@ -1,1 +1,1 @@
-https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
+Download the above files and upload in your own colab and practice. Solutions provided till where you need to learn.
