@@ -6,5 +6,5 @@ import numpy as np
 x = np.array([i for i in range(-5, 6)])
 y = np.array([i**2 for i in range(-5, 6)])
 
-plt.plot(x, y)
+plt.bar(x, y)
 plt.show()
