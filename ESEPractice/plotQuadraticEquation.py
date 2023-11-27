@@ -8,4 +8,3 @@ y = np.array([i**2 for i in range(-5, 6)])
 
 plt.plot(x, y)
 plt.show()
-
