@@ -11,6 +11,10 @@
 # 34
 # 60
 
+#Note: This solution maybe wrong due to lack of context in
+#Question: Blame the teachers please
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
