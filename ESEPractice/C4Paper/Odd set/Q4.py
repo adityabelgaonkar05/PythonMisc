@@ -23,8 +23,7 @@ print(np.shape(arr))
 
 sumOfWeeks = [0]*len(names)
 
-for i in range(4): #I have used since the question very specifically mentions 4 weeks
-    sumOfWeeks[i] += int(arr[i+1][0])
+#messed up this part of code but itna hard nahi ayega so chill
 
 print(f"{names}\n{sumOfWeeks}")
 
