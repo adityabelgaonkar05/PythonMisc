@@ -1,6 +1,6 @@
-list1 = eval(input())
+list1 = eval(input("list = "))
 diff = []
-k = float(input())
+k = float(input("K = "))
 
 for i in list1:
   diff.append(abs(i-k))
