@@ -5,6 +5,9 @@
 import numpy as np
 
 arr = np.array(list(map(int, input().split())))
+#input().split() by default splits whatever input it receives by checking for " ",
+#using map(int, ...) we convert all input taken into integers, so we can perform our operations
+#later on, list() converts the mapped split input into a python list.
 
 maxnum = max(arr)
 print(f"{maxnum} is the maximum value")

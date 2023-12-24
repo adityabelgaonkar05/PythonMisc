@@ -16,6 +16,10 @@ def AMCount(file):
 
     return numberofA, numberofM
 
+#try and except blocks basically check if the file is there, try block will fail to 
+#execute if STORY.txt doesnt exist meaning except block will make a file named 
+#STORY.txt
+
 try:
     f = open("STORY.txt", "r")
     f.close()
